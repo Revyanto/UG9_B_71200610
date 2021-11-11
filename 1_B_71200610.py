@@ -1,6 +1,0 @@
-nama = input("Nama : ")
-ttl = input("Tempat tanggal lahir : ")
-nama = nama.split()
-print ("Haloo!",str(nama.pop(-1))+","," ".join(nama))
-ttl = ttl.split()
-print ("Anda lahir di",str(ttl.pop(0)),"pada tanggal"," ".join(ttl))
